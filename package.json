@@ -1,7 +1,7 @@
 {
   "name": "habitica",
   "description": "A habit tracker app which treats your goals like a Role Playing Game.",
-  "version": "4.230.2",
+  "version": "4.231.0",
   "main": "./website/server/index.js",
   "dependencies": {
     "@babel/core": "^7.17.10",
@@ -21,7 +21,7 @@
     "compression": "^1.7.4",
     "cookie-session": "^2.0.0",
     "coupon-code": "^0.4.5",
-    "csv-stringify": "^5.6.5",
+    "csv-stringify": "^6.1.0",
     "cwait": "^1.1.1",
     "domain-middleware": "~0.1.0",
     "eslint": "^6.8.0",
